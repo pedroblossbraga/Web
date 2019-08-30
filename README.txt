@@ -1,4 +1,5 @@
 Python email sender
+@author: Pedro Blöss Braga
 
 This is a example of a code to send emails via Python, without the need to open the gmail.
 
